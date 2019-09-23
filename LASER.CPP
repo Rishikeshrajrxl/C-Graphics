@@ -510,6 +510,6 @@ setbkcolor(RED);
 setcolor(YELLOW);
 settextstyle(7,HORIZ_DIR,4);
 outtextxy(120,80,"Thankyou For watching");
-outtextxy(120,180,"bestengineeringprojects.com");
+outtextxy(120,180,"THISISRISHIKESH RAJ");
 outtextxy(120,280," Press any key to EXIT");
 }
